@@ -1,3 +1,9 @@
+write a program in solidity to create student data use following constructs-
+.Structures
+.Arrays
+.Fallback
+
+Deploy this as smart contract on ethereum and observe the transction fee and gas value.
 
 BT
 
@@ -33,6 +39,7 @@ contract BankAccount {
     }
 }
 
+write a program non-recursive and recursive program to calculate fibonaccie number and analyse time and space complexity.
 DAA Recursive 
 
  public class FiboRecursive {
